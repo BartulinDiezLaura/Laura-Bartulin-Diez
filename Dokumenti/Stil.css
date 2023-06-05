@@ -1,0 +1,29 @@
+/* CSS Document */
+p { 
+	color: green;
+	font-family: Constantia, "Lucida Bright"; "Dejavu Serif", Georgia; "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: antiquewhite;
+	padding: 20px;
+}
+h1,h2 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+color:cadetblue; }
+
+span {color: rgb(255, 0, 255);}
+.pozadina { background-image: url("slike/Tulips.jpg");
+background-color: darkcyan:
+}
+
+a:link {
+	color: black;
+	background-color: white;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #69FFD8; 
+}
+a:hover{
+	background-color: yellow;
+}
